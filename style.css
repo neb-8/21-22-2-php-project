@@ -1,0 +1,102 @@
+body{
+    width: 60%;
+    margin-left:auto;		
+	margin-right:auto;
+}
+
+.index{
+    background-color: #757576;
+}
+.details{
+    background-image: url("media/yellow.jpg");
+}
+.reg{
+    background-image: url("media/blue1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.log{
+    background-image: url("media/blue2.jpg");
+}
+.newep{
+    background-image: url("media/white1.jpg");
+}
+.newser{
+    background-image: url("media/white2.jpg");
+}
+.reg body, .log body, .newep body, .newser body{
+    width: min-content;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+}
+
+.index button, .details button {
+    background: none!important;
+    border: none;
+    padding: 0!important;
+    font-family: arial, sans-serif;
+    color: #069;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 100%;
+    font-style: italic;
+}
+
+a{
+    font-style: italic;
+    color: #069;
+}
+
+a:visited { 
+    text-decoration: none;
+}
+
+#user_td{
+    text-align: right;
+}
+
+#plot{
+    height: 2em;
+}
+
+.cover{
+    float:right;
+    height:500px;
+}
+
+.header{
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding-bottom: 10px;
+}
+
+.content{
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 10px;
+}
+
+#nav{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+
+.reg #nav, .log #nav{
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 2px;
+}
+
+.user{
+    position: fixed;
+    top: 120px;
+    left: 20px;
+    transform: rotate(-90deg);
+    font-size: 400%;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+}
+
+table img{
+    float: right;
+}

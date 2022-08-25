@@ -1,0 +1,42 @@
+{
+    "62a31171ba440": {
+        "username": "admin",
+        "password": "$2y$10$966hqnfujleei27HO4us0Oq87ZC3BUoDHhf3rLQM6ng.alr0finFa",
+        "email": "admin@admin.com",
+        "id": "62a31171ba440",
+        "roles": "admin"
+    },
+    "62a4babe90886": {
+        "username": "beni",
+        "password": "$2y$10$sLBbREzObBSH1JcYuvrisuNteuyN5ntVxwxtAznbRkF38wogc.ykK",
+        "email": "beni@gmail.com",
+        "id": "62a4babe90886",
+        "watched": {
+            "1": 5,
+            "62a61c239a6cb": 26,
+            "62a622319ded8": 10
+        }
+    },
+    "62a62501ca04f": {
+        "username": "nusi",
+        "password": "$2y$10$TDpBSvkj.J6.TjeAVRFIM.EmlUpZrr2rF1r5ettgi7U5f3nSEULi.",
+        "email": "nusi@gmail.com",
+        "watched": {
+            "1": 9
+        },
+        "id": "62a62501ca04f"
+    },
+    "62a6254530582": {
+        "username": "sorozat_fan_1",
+        "password": "$2y$10$E4Fkji1ZZSZ8gkYzK6ofve.7VET2xyFDwovx5YP15YM\/P7RAQSlyW",
+        "email": "sorozat@fan.com",
+        "watched": {
+            "1": 9,
+            "2": 4,
+            "62a617ac86412": 5,
+            "62a61c239a6cb": 26,
+            "62a622319ded8": 10
+        },
+        "id": "62a6254530582"
+    }
+}

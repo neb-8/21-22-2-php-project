@@ -1,0 +1,425 @@
+{
+    "1": {
+        "id": "1",
+        "title": "Squid Game",
+        "year": "2021",
+        "plot": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits with deadly high stakes. A survival game that has a whopping 45.6 billion-won prize at stake.",
+        "cover": "https:\/\/flixpatrol.com\/runtime\/cache\/files\/posters\/d\/ddlemu3ez0pgg93k2svnlcjcsve.webp",
+        "episodes": {
+            "1": {
+                "id": "1",
+                "date": "2021-09-17",
+                "title": "Mugunghwa kkoch-i pideon nal",
+                "plot": "Hoping to win easy money, a broke and desperate Gi-hun agrees to take part in an enigmatic game. Not long into the first round, unforeseen horrors unfold.",
+                "rating": "8.2"
+            },
+            "2": {
+                "id": "2",
+                "date": "2021-09-17",
+                "title": "Ji-ok",
+                "plot": "Split on whether to continue or quit, the group holds a vote. But their realities in the outside world may prove to be just as unforgiving as the game.",
+                "rating": "7.5"
+            },
+            "3": {
+                "id": "3",
+                "date": "2021-09-17",
+                "title": "Usan-eul sseun namja",
+                "plot": "A few players enter the next round - which promises equal doses of sweet and deadly - with hidden advantages. Meanwhile, Jun-ho sneaks his way inside.",
+                "rating": "8.0"
+            },
+            "4": {
+                "id": "4",
+                "date": "2021-09-17",
+                "title": "Jjollyeodo pyeonmeokgi",
+                "plot": "As alliances form among the players, no one is safe in the dorm after lights-out. The third game challenges Gi-hun's team to think strategically.",
+                "rating": "8.4"
+            },
+            "5": {
+                "id": "5",
+                "date": "2021-09-17",
+                "title": "Pyeongdeung-han sesang",
+                "plot": "Gi-hun and his team take turns keeping guard through the night. The masked men encounter trouble with their co-conspirators.",
+                "rating": "7.6"
+            },
+            "6": {
+                "id": "6",
+                "date": "2021-09-17",
+                "title": "Kkanbu",
+                "plot": "Players pair off for the fourth game. Gi-hun grapples with a moral dilemma, Sang-woo chooses self-preservation and Sae-byeok shares her untold story.",
+                "rating": "9.2"
+            },
+            "7": {
+                "id": "7",
+                "date": "2021-09-17",
+                "title": "VIPS",
+                "plot": "The Masked Leader welcomes VIP guests to the facility for a front-row viewing of the show. In the fifth game, some players crack under pressure.",
+                "rating": "7.9"
+            },
+            "8": {
+                "id": "8",
+                "date": "2021-09-17",
+                "title": "Peulonteu maen",
+                "plot": "Ahead of the last round, distrust and disgust run deep among the finalists. Jun-ho makes a getaway, determined to expose the game's dirty secrets.",
+                "rating": "7.8"
+            },
+            "9": {
+                "id": "9",
+                "date": "2021-09-17",
+                "title": "Unsu joeun nal",
+                "plot": "The final round presents another cruel test but this time, how it ends depends on just one player. The game's creator steps out of the shadows.",
+                "rating": "7.5"
+            }
+        }
+    },
+    "2": {
+        "id": "2",
+        "title": "Obi-wan Kenobi",
+        "year": "2022",
+        "plot": "The series begins 10 years after the dramatic events of Star Wars: Revenge of the Sith, where Obi-Wan faced his greatest defeat, the downfall, and corruption of his best friend and Jedi apprentice, Anakin Skywalker, who turned evil Sith Lord Darth Vader.",
+        "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BOTAxOTlmOTAtMjA0Yy00YjVjLWE3OTQtYjAzMWMxOTAwZTY1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg",
+        "episodes": {
+            "1": {
+                "id": "1",
+                "date": "2022-05-27",
+                "title": "Part I",
+                "plot": "When agents of the Empire pose a new threat, Obi-Wan Kenobi emerges after years of hiding.",
+                "rating": "7.6"
+            },
+            "2": {
+                "id": "2",
+                "date": "2022-05-27",
+                "title": "Part II",
+                "plot": "On a dangerous crime-ridden world, Obi-Wan becomes a target.",
+                "rating": "7.5"
+            },
+            "3": {
+                "id": "3",
+                "date": "2022-06-1",
+                "title": "Part III",
+                "plot": "Obi-Wan searches for allies as he attracts the attention of the Empire, threatening the locals.",
+                "rating": "7.8"
+            },
+            "4": {
+                "id": "3",
+                "date": "2022-06-08",
+                "title": "Part IV",
+                "plot": "Obi-Wan Kenobi plots a daring mission into enemy territory.",
+                "rating": "6.4"
+            }
+        }
+    },
+    "62a617ac86412": {
+        "id": "62a617ac86412",
+        "title": "Chernobyl",
+        "year": "2019",
+        "plot": "In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world's worst man-made catastrophes.",
+        "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMmI2OTMxZTUtMTM5OS00MGNiLWFhNGMtYzJiODUwYjRmODA5XkEyXkFqcGdeQXVyMTM0NTc2NDgw._V1_.jpg",
+        "episodes": {
+            "1": {
+                "id": 1,
+                "date": "2019-05-06",
+                "title": "1:23:45",
+                "plot": "Plant workers and firefighters put their lives on the line to control a catastrophic April 1986 explosion at a Soviet nuclear power plant.",
+                "rating": "9.4"
+            },
+            "2": {
+                "id": 2,
+                "date": "2019-05-13",
+                "title": "Please Remain Calm",
+                "plot": "With untold millions at risk, Ulana makes a desperate attempt to reach Valery and warn him about the threat of a second explosion. ",
+                "rating": "9.6"
+            },
+            "3": {
+                "id": 3,
+                "date": "2019-05-20",
+                "title": "Open Wide, O Earth",
+                "plot": "Valery creates a detailed plan to decontaminate Chernobyl; Lyudmilla ignores warnings about her firefighter husband's contamination. ",
+                "rating": "9.5"
+            },
+            "4": {
+                "id": 4,
+                "date": "2019-05-27",
+                "title": "The Happiness of All Mankind",
+                "plot": "Valery and Boris attempt to find solutions to removing the radioactive debris; Ulana attempts to find out the cause of the explosion. ",
+                "rating": "9.4"
+            },
+            "5": {
+                "id": 5,
+                "date": "2019-06-03",
+                "title": "Vichnaya Pamyat",
+                "plot": "Valery, Boris and Ulana risk their lives and reputations to expose the truth about Chernobyl. ",
+                "rating": "9.8"
+            }
+        }
+    },
+    "62a61c239a6cb": {
+        "id": "62a61c239a6cb",
+        "title": "Neon Genesis Evangelion",
+        "year": "1995",
+        "plot": "A teenage boy finds himself recruited as a member of an elite team of pilots by his father.",
+        "cover": "https:\/\/m.media-amazon.com\/images\/M\/MV5BMTc4YTY0MDUtYWNmMi00NTRiLWE4NmItM2JiMmIzYmEwNGQzXkEyXkFqcGdeQXVyNTkwNzYyODM@._V1_.jpg",
+        "episodes": {
+            "1": {
+                "id": 1,
+                "date": "1997-08-20",
+                "title": "Angel Attack",
+                "plot": "Shinji Ikari, a 14-year-old boy in the city of Tokyo-3, is delivered to the secret organization NERV, where he is requested by his enigmatic father to save the city from an invading creature called an Angel. ",
+                "rating": "7.7"
+            },
+            "2": {
+                "id": 2,
+                "date": "1985-10-11",
+                "title": "The Beast",
+                "plot": "In the wake of the previous battle, Misato hastily decides to let Shinji have a room in her apartment, where he discovers just what an irresponsible person his new guardian is. Shinji is also haunted by memories of his fight with the Angel. ",
+                "rating": "8.0"
+            },
+            "3": {
+                "id": 3,
+                "date": "1995-10-18",
+                "title": "A Transfer",
+                "plot": "Shinji transfers into a new school within Tokyo-3, catching the fascination of his classmates - and igniting the ire of one student whose sister was injured in the EVA's last battle. Meanwhile, a second Angel makes its way into the city. ",
+                "rating": "7.7"
+            },
+            "4": {
+                "id": 4,
+                "date": "1995-10-25",
+                "title": "Hedgehog's Dilemma",
+                "plot": "Frustrated by his newfound responsibilities, Shinji runs away from Misato and NERV. After being escorted back to the organization by armed officials, Shinji must decide whether he truly wants to abandon his role as a pilot.",
+                "rating": "7.6"
+            },
+            "5": {
+                "id": 5,
+                "date": "1995-11-01",
+                "title": "Rei I",
+                "plot": "Rei Ayanami, the pilot of Evangelion Unit 00, is scheduled to undergo another activation test following a horrible accident nearly a month earlier. Shinji makes attempts to understand Rei and her close relationship with his father. ",
+                "rating": "7.8"
+            },
+            "6": {
+                "id": 6,
+                "date": "1995-11-08",
+                "title": "Kessen, Dai 3 Shin Tokyo Shi",
+                "plot": "A new Angel invades, striking a critical blow against Shinji. Taking the enemy's abilities into account, Misato crafts a special strategy involving Units 00 and 01 as well as an enormous positron rifle. Shinji also discovers Rei's motive as a pilot. ",
+                "rating": "8.3"
+            },
+            "7": {
+                "id": 7,
+                "date": "1995-11-15",
+                "title": "A Human Work",
+                "plot": "A new nuclear-powered military robot, Jet Alone, goes out of control during a demonstration ceremony and heads toward an almost certain meltdown. With the help of Shinji and EVA-01, Misato takes it upon herself to stop its rampage. ",
+                "rating": "7.5"
+            },
+            "8": {
+                "id": 8,
+                "date": "1995-11-22",
+                "title": "Asuka Strikes!",
+                "plot": "Misato, Shinji, Touji and Kensuke travel to a famous aircraft carrier to collect the new EVA-02 and its prideful pilot, Asuka Langley Souryuu. A seaborne Angel strikes the fleet, and Asuka leads Shinji into her Eva's entry plug for an immediate demonstration of her skills. ",
+                "rating": "7.8"
+            },
+            "9": {
+                "id": 9,
+                "date": "1995-11-29",
+                "title": "Both of You, Dance Like You Want to Win!",
+                "plot": "A quick attack against a new Angel by Asuka and Shinji ends in an embarrassing defeat when the Angel suddenly divides itself. Shinji and Asuka undergo learning a series of synchronized dance movements as per a new team-oriented strategy. ",
+                "rating": "8.1"
+            },
+            "10": {
+                "id": 10,
+                "date": "1995-12-06",
+                "title": "Magmadiver",
+                "plot": "Banned by Misato from going on a class trip to Okinawa, Shinji and Asuka catch up on their studies. An embryonic Angel is found inside a volcano, and Asuka volunteers to carry out the perilous task of retrieving the creature. ",
+                "rating": "7.4"
+            },
+            "11": {
+                "id": 11,
+                "date": "1995-12-13",
+                "title": "The Day Tokyo-3 Stood Still",
+                "plot": "A city-wide power outage puts NERV into a crisis as another Angel invades Tokyo-3. Shinji, Rei and Asuka attempt to make their way into the headquarters as NERV personnel ready the Evas for manual deployment. ",
+                "rating": "7.9"
+            },
+            "12": {
+                "id": 12,
+                "date": "1995-12-20",
+                "title": "She Said, 'Don't Make Others Suffer for Your Personal Hatred'",
+                "plot": "Misato is promoted to the rank of Major, but she reveals her long-buried sentiments concerning her work at NERV. A massive Angel appears in Earth's stratosphere, and all three Evangelions are deployed to stop it. ",
+                "rating": "7.9"
+            },
+            "13": {
+                "id": 13,
+                "date": "1995-12-27",
+                "title": "Lilliputian Hitcher",
+                "plot": "During a simulation plug experiment, an Angel with the ability to mimic computer circuitry manages to invade the MAGI supercomputer system and trigger a self-destruct sequence. Ritsuko delves into the system's inner workings and leads a furious attempt to cancel the process. ",
+                "rating": "7.6"
+            },
+            "14": {
+                "id": 14,
+                "date": "1996-01-03",
+                "title": "Weaving a Story",
+                "plot": "The Human Instrumentality Committee recollects the past Angel encounters and battles while Gendou conceals the matter of the recently discovered virus-like Angel. Rei and Shinji undergo inter-compatibility testing with their respective Evangelions, but this experiment culminates in a strangely familiar incident. ",
+                "rating": "7.0"
+            },
+            "15": {
+                "id": 15,
+                "date": "1996-01-10",
+                "title": "Those Women Longed for the Touch of Others' Lips, and Thus Invited Their Kisses",
+                "plot": "Shinji visits his mother's grave in the company of his father, and Misato reflects upon her bygone romance with Kaji. Soon afterward, Kaji and Misato discover a startling secret within NERV's Terminal Dogma. ",
+                "rating": "8.1"
+            },
+            "16": {
+                "id": 16,
+                "date": "1996-01-17",
+                "title": "Splitting of the Breast",
+                "plot": "A bizarre Angel possessing a spherical shadow in the air and a Dirac sea-type body on the ground absorbs Shinji and EVA-01. While NERV searches for a means of destroying the Angel--even if that means killing Shinji as well--Shinji languishes inside the entry plug, pondering his role as a pilot and his relationship with the people in his life. ",
+                "rating": "8.8"
+            },
+            "17": {
+                "id": 17,
+                "date": "1996-01-24",
+                "title": "Fourth Children",
+                "plot": "As EVA-04, the planned testbed for the S\u00b2 engine, disappears under mysterious circumstances, NERV quickly prepares the testing of EVA-03 and the selection of its pilot. Shinji and Touji continue to bond, and Hikari begins to emotionally open herself to Touji. ",
+                "rating": "7.6"
+            },
+            "18": {
+                "id": 18,
+                "date": "1996-01-31",
+                "title": "Ambivalence",
+                "plot": "The activation of EVA-03 goes awry when an Angel takes control of the unit. With EVA-03 itself re-designated as an Angel, Shinji is faced with the moral dilemma of terminating the rogue Evangelion at the risk of harming or killing the pilot trapped within. ",
+                "rating": "8.9"
+            },
+            "19": {
+                "id": 19,
+                "date": "1996-02-07",
+                "title": "Introjection",
+                "plot": "Shinji, furious at his father for the orders given in the previous battle, resigns from NERV. But as an Angel lays waste to the Geo-Front and the other Evangelions, he begins to reconsider his hasty decision. ",
+                "rating": "9.2"
+            },
+            "20": {
+                "id": 20,
+                "date": "1996-02-14",
+                "title": "Weaving a Story 2: Oral Stage",
+                "plot": "His physical form absorbed by EVA-01, Shinji drifts through an introspective state, again contemplating his \"mission\" and role as a pilot. Meanwhile, Ritsuko and NERV desperately attempt to recover him. ",
+                "rating": "8.6"
+            },
+            "21": {
+                "id": 21,
+                "date": "1996-02-21",
+                "title": "He Was Aware That He Was Still a Child",
+                "plot": "As Kouzou is interrogated by SEELE, he reminisces about the history of NERV, its parent company GEHIRN, Yui and Gendou Ikari, and Ritsuko's mother Naoko Akagi. At the same time, a horrible fate is in store for Kaji concerning his shadowy dealings. ",
+                "rating": "8.6"
+            },
+            "22": {
+                "id": 22,
+                "date": "1996-02-28",
+                "title": "Don't Be",
+                "plot": "Asuka, haunted by childhood memories of her mother's suicide and a notion that she \"lost\" to Shinji in the previous battle, begins to lose her precious self-confidence as a pilot. A new Angel appears in space and invades Asuka's psyche through a strange beam of light, rendering her helpless. ",
+                "rating": "8.6"
+            },
+            "23": {
+                "id": 23,
+                "date": "1996-03-06",
+                "title": "Namida",
+                "plot": "When an Angel resembling a coil of light arrives, Rei and Shinji are sent to battle it, but the assimilating ability of the foe prompts Rei to self-destruct the EVA-00 in order to kill it and save Shinji. Mysteries abound as a clone of Rei later appears in the hospital, and Ritsuko reveals the terrible secret of the \"dummy plug\" system to Misato and Shinji. ",
+                "rating": "8.6"
+            },
+            "24": {
+                "id": 24,
+                "date": "1996-03-13",
+                "title": "The Beginning and the End, or 'Knockin' on Heaven's Door'",
+                "plot": "A despondent Shinji encounters a kind-hearted boy named Kaworu, who quickly becomes his close friend. However, Kaworu (selected earlier as the replacement pilot for EVA-02) is soon revealed to be the final Angel. This turn of events leaves Shinji with a cruel dilemma: saving humanity will mean he must kill his only true friend in the world. ",
+                "rating": "8.6"
+            },
+            "25": {
+                "id": 25,
+                "date": "1996-03-20",
+                "title": "Do You Love Me?",
+                "plot": "Shinji, pained by his choice to kill his friend Kaworu, shuts himself off from the world and the people in his life and reflects upon what his true purpose in life is. Instrumentality begins as Shinji wishes for a world of complete solitude and seclusion. ",
+                "rating": "7.7"
+            },
+            "26": {
+                "id": 26,
+                "date": "2006-03-12",
+                "title": "Sekai no Chuushin de Ai o Sakenda Kemono",
+                "plot": "Takes place in Shinji's mind, where he tries to find ways to feel better about himself and other people, while thinking about a solution to his many problems. ",
+                "rating": "8.0"
+            }
+        }
+    },
+    "62a622319ded8": {
+        "id": "62a622319ded8",
+        "title": "Over the Garden Wall",
+        "year": "2014",
+        "plot": "Two brothers find themselves lost in a mysterious land and try to find their way home.",
+        "cover": "https:\/\/cdn.hmv.com\/r\/w-640\/hmv\/files\/96\/9641f470-bcf2-483e-b943-36b6416b1832.jpg",
+        "episodes": {
+            "1": {
+                "id": 1,
+                "date": "2014-11-03",
+                "title": "Chapter 1: The Old Grist Mill",
+                "plot": "Lost in the mysterious woods of the Unknown, two brothers named Wirt and Gregory run into a jaded old woodsman. ",
+                "rating": "8.0"
+            },
+            "2": {
+                "id": 2,
+                "date": "2014-11-03",
+                "title": "Chapter 2: Hard Times at the Huskin' Bee",
+                "plot": "A bluebird named Beatrice offers to guide Wirt and Greg to Adelaide of the Pasture (the good woman of the woods) and help them get home. ",
+                "rating": "8.4"
+            },
+            "3": {
+                "id": 3,
+                "date": "2014-11-04",
+                "title": "Chapter 3: Schooltown Follies",
+                "plot": "Wirt, Greg, and Beatrice get all mixed up in the musical antics of a schoolhouse of animals. ",
+                "rating": "7.7"
+            },
+            "4": {
+                "id": 4,
+                "date": "2014-11-04",
+                "title": "Chapter 4: Songs of the Dark Lantern",
+                "plot": "Beatrice is left out in the rain with a brainless horse while Wirt and Greg must ask for directions in a lively colonial tavern called \"The Dark Lantern.\" ",
+                "rating": "8.3"
+            },
+            "5": {
+                "id": 5,
+                "date": "2014-11-05",
+                "title": "Chapter 5: Mad Love",
+                "plot": "Is millionaire Quincy Endicott's sprawling mansion haunted by a beautiful ghost, or is the tea baron going mad? ",
+                "rating": "8.0"
+            },
+            "6": {
+                "id": 6,
+                "date": "2014-11-05",
+                "title": "Chapter 6: Lullaby in Frogland",
+                "plot": "Wirt and Greg go on a lighthearted romp aboard the Frogland Ferry as they approach Adelaide of the Pasture. ",
+                "rating": "8.5"
+            },
+            "7": {
+                "id": 7,
+                "date": "2014-11-06",
+                "title": "Chapter 7: The Ringing of the Bell",
+                "plot": "Wirt meets Lorna, a young woman forced to do housework by an odious witch with a magic bell. ",
+                "rating": "8.8"
+            },
+            "8": {
+                "id": 8,
+                "date": "2014-11-06",
+                "title": "Chapter 8: Babes in the Woods",
+                "plot": "While Wirt and Greg lay down to rest, they're drawn into a dreamworld of cherubs, flowers, and clouds. ",
+                "rating": "8.1"
+            },
+            "9": {
+                "id": 9,
+                "date": "2014-11-07",
+                "title": "Chapter 9: Into the Unknown",
+                "plot": "The origin of Wirt and Greg's descent into the Unknown reveals itself. ",
+                "rating": "9.1"
+            },
+            "10": {
+                "id": 10,
+                "date": "2014-11-07",
+                "title": "Chapter 10: The Unknown",
+                "plot": "The Beast has come. The final chapter begins. ",
+                "rating": "9.4"
+            }
+        }
+    }
+}
